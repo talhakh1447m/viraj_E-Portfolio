@@ -1,0 +1,3 @@
+Place assignment PDFs or images in this folder.
+Then add an object to src/data/portfolio.js with the file path.
+Example: /assignments/my-assignment.pdf
